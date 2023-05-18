@@ -79,14 +79,14 @@
                     <img class="img-responsive" src="img/abt2.jpg" alt="">
                     <h3>Aleksandar Cvetkovic
 					<br>
-                        <small>Pepeg</small>
+                        <small>Marketing</small>
                     </h3>
                 </div>
                 <div class="col-sm-4 text-center">
                     <img class="img-responsive" src="img/abt3.jpg" alt="">
                     <h3>Dusan Spasic
 					<br>
-                        <small>Chief Erika</small>
+                        <small>Developer</small>
                     </h3>
                 </div>
                 <div class="clearfix"></div>
