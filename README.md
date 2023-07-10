@@ -1,6 +1,6 @@
 # perfectcup-membersonly-blog
 
-**for this website i used a free bootstap theme template from http://getbootstrap.com**
+**for this website i used a free bootstap theme template from http://startbootstrap.com**
 
 
 a members only blog website done with HTML/CSS/Bootstrap/JavaScript/jQuery/PHP/AJAX
